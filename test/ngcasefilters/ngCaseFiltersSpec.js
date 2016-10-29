@@ -81,6 +81,20 @@
         expect($filter('flipCase')(string)).toEqual('cODE MONKEy');
       });
     });
+
+    describe('kebabCase', function() {
+      it('should convert a string to dash case', function() {
+        var string = 'Code monkeY';
+        expect($filter('kebabCase')(string)).toEqual('code-monkey');
+      });
+    });
+
+    describe('pascalCase', function() {
+      it('should convert a string to pascal case', function() {
+        var string = 'Code monkey';
+        expect($filter('pascalCase')(string)).toEqual('CodeMonkey');
+      });
+    });
   });
 
 })();

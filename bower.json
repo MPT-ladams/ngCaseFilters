@@ -1,7 +1,7 @@
 {
   "name": "ngcasefilters",
-  "version": "1.0.2",
-  "homepage": "https://github.com/oaguy1/angular-filter-Case",
+  "version": "1.0.3",
+  "homepage": "https://github.com/MedText/ngCaseFilters.git",
   "authors": [
     "David N. Hughes-Robinson <davidr@medtextapp.com>"
   ],

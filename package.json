@@ -1,6 +1,6 @@
 {
   "name": "ngcasefilters",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Angular filters for modifing case, using nbubna's Case library",
   "main": "dist/ngcasefilters.js",
   "dependencies": {
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oaguy1/angular-filter-Case.git"
+    "url": "git+https://github.com/MedText/ngCaseFilters.git"
   },
   "keywords": [
     "case",
@@ -42,7 +42,7 @@
   "author": "David N. Hughes-Robinson <davidr@medtextapp.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/oaguy1/angular-filter-Case/issues"
+    "url": "https://github.com/MedText/ngCaseFilters/issues"
   },
-  "homepage": "https://github.com/oaguy1/angular-filter-Case#readme"
+  "homepage": "https://github.com/MedText/ngCaseFilters#readme"
 }

@@ -1,7 +1,7 @@
 (function() {
   'use strict';
 
-  var CaseFilterFunctions = ['upper', 'lower', 'snake', 'squish', 'camel', 'constant', 'title', 'capital', 'sentence', 'flip'];
+  var CaseFilterFunctions = ['upper', 'lower', 'snake', 'squish', 'camel', 'constant', 'title', 'capital', 'sentence', 'flip', 'pascal', 'kebab'];
 
   var ngCaseFilters = angular.module('ngCaseFilters',[]);
 
